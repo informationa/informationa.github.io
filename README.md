@@ -1,1 +1,0 @@
-# informationa.github.io
