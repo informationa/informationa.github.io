@@ -736,6 +736,7 @@ section {
 
 .cta p {
   color: #fff;
+  display:center;
 }
 
 .cta .cta-btn {
@@ -757,6 +758,7 @@ section {
   border-color: #8E7D63;
   color: #151515;
 }
+
 
 /*--------------------------------------------------------------
 # Portfolio
