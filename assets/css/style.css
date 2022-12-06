@@ -162,7 +162,7 @@ h6 {
 }
 
 #header .logo img {
-  max-height: 80px;
+  max-height: 40px;
 }
 
 /*--------------------------------------------------------------
@@ -522,11 +522,12 @@ h6 {
 --------------------------------------------------------------*/
 section {
   padding: 100px 0;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .section-title {
   padding-bottom: 40px;
+
 }
 
 .section-title h2 {
@@ -1585,10 +1586,8 @@ section {
 }
 .container {
   padding: 48px;
-  height: 1s0vh;
-  display: flex;
+  height: 100vh;
   flex-direction: column;
-  justify-content: center;
 }
 
 .container .group {
@@ -1611,7 +1610,7 @@ label::before {
   background-size: contain;
   width: 32px;
   height: 32px;
-  position: absolute;
+ 
   left: -44px;
   top: -8px;
 
