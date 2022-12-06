@@ -81,7 +81,7 @@ h6 {
   right: 0;
   bottom: 0;
   z-index: 9999;
-  overflow: hidden;
+  overflow: auto;
   background: #8E7D63;
 }
 
@@ -136,6 +136,7 @@ h6 {
   transition: all 0.5s;
   z-index: 997;
   padding: 15px 0;
+  height: 17%;
 }
 
 #header.header-scrolled,
@@ -330,7 +331,7 @@ h6 {
 
 .navbar-mobile {
   position: fixed;
-  overflow: hidden;
+  overflow: auto;
   top: 0;
   right: 0;
   left: 0;
@@ -418,7 +419,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 100vh;
+  height:100vh;
   background: url("../img/pixel.jpeg") top center; 
   position: relative;
 }
@@ -496,7 +497,7 @@ h6 {
 
 @media (min-width: 1024px) {
   #hero {
-    background-attachment: fixed;
+    background-attachment:scroll;
     color: #fff(0, 0, 0, 0.4);
   }
 }
@@ -802,7 +803,7 @@ section {
 .portfolio .portfolio-wrap {
   transition: 0.3s;
   position: relative;
-  overflow: hidden;
+  overflow: auto;
   z-index: 1;
   background: rgba(21, 21, 21, 0.6);
 }
@@ -1058,7 +1059,7 @@ section {
 
 .testimonials .testimonials-carousel,
 .testimonials .testimonials-slider {
-  overflow: hidden;
+  overflow: auto;
 }
 
 .testimonials .testimonial-item {
@@ -1150,7 +1151,7 @@ section {
 
 .team .member {
   margin-bottom: 20px;
-  overflow: hidden;
+  overflow: auto;
   border-radius: 5px;
   background: #fff;
   box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
@@ -1158,7 +1159,7 @@ section {
 
 .team .member .member-img {
   position: relative;
-  overflow: hidden;
+  overflow: auto;
 }
 
 .team .member .social {
