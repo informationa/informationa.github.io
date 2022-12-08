@@ -135,9 +135,6 @@ h6 {
   color: #f1f1f1;
 }
 
-.header.get-started-btn {
-
-}
 
 /* Page content */
 .content {
@@ -195,14 +192,14 @@ h6 {
 #  Get Startet Button--*/
 
 .get-started-btn {
-  color: #8E7D63;
+  color: #fff;
   border-radius: 4px;
   padding: 7px 15px 8px 15px;
   white-space: nowrap;
   transition: 0.3s;
   font-size: 14px;
   display: inline-block;
-  border: 2px solid #8E7D63;
+  border: 2px solid #fff;
   z-index: 10;
 }
 
@@ -548,7 +545,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 400px 0;
+  padding: 0px 0;
   overflow: scroll;
 }
 
@@ -754,7 +751,7 @@ section {
 .cta {
   background: linear-gradient(rgba(2, 2, 2, 0.5), rgba(0, 0, 0, 0.5)), url("../img/hongkong.jpeg") center center;
   background-size: cover;
-  padding: 60px 0;
+  padding: 0px 0;
 }
 
 .cta h3 {
