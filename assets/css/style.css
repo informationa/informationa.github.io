@@ -461,6 +461,7 @@ h6 {
   position: relative;
   padding-top: 74px;
   text-align: center;
+  
 }
 
 #hero h1 {
@@ -485,7 +486,7 @@ h6 {
 #hero .icon-box {
   padding: 30px 20px;
   transition: ease-in-out 0.3s;
-  border: 3px solid #ff0000(255, 255, 255);
+  border: 3px #8E7D63 ;
   height: 100%;
   text-align: center;
 }
@@ -550,7 +551,7 @@ section {
 }
 
 .section-title {
-  padding-bottom: 40px;
+  padding-bottom: 0px;
 
 }
 
@@ -1611,7 +1612,7 @@ section {
 }
 .container {
   padding: 48px;
-  height: 100vh;
+  height: 20%;
   flex-direction: column;
 }
 
@@ -1630,7 +1631,7 @@ label {
 
 label::before {
   content: "";
-  background: url("img/check-circle.svg");
+  background: url("/assets/img/check-circle.png");
   background-position: center;
   background-size: contain;
   width: 32px;
