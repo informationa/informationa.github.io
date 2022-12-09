@@ -13,16 +13,16 @@
 }
 body {
   font-family: "Open Sans", sans-serif;
-  color: #8E7D63;
+  color: #00b3ac;
 }
 
 a {
-  color: #8E7D63;
+  color: #00b3ac;
   text-decoration: none;
 }
 
 a:hover {
-  color: #8E7D63;
+  color: #ac00b3 ;
   text-decoration: none;
 }
 
@@ -54,12 +54,12 @@ h6 {
 
 .back-to-top i {
   font-size: 28px;
-  color: #8E7D63;
+  color: #00b3ac;
   line-height: 0;
 }
 
 .back-to-top:hover {
-  background: #8E7D63;
+  background: #ac00b3;
 }
 
 .back-to-top:hover i {
@@ -82,7 +82,7 @@ h6 {
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: #8E7D63;
+  background: #00b3ac 0.3;
 }
 
 #preloader:before {
@@ -90,8 +90,8 @@ h6 {
   position: fixed;
   top: calc(50% - 0px);
   left: calc(50% - 30px);
-  border: 6px solid #8E7D63;
-  border-top-color: #8E7D63;
+  border: 6px solid #00b3ac;
+  border-top-color: #00b3ac;
   border-bottom-color: #;
   border-radius: 50%;
   width: 60px;
@@ -204,7 +204,7 @@ h6 {
 }
 
 .get-started-btn:hover {
-  background: #8E7D63;
+  background: #00b3ac;
   color: #fff;
 }
 
@@ -443,7 +443,7 @@ h6 {
 #hero {
   width: 100%;
   height:100vh;
-  background: url("../img/blackpic.jpeg") top center; 
+  background: url("../img/greybackground.jpeg") top center; 
   position: relative;
 }
 
