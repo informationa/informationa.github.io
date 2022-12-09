@@ -131,7 +131,7 @@ h6 {
 /* Style the header */
 .header {
   padding: 10px 16px;
-  background: #555;
+  background: #212529;
   color: #f1f1f1;
 }
 
@@ -563,7 +563,7 @@ section {
   margin: 0 0 5px 0;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #000;
+  color: #fff;
   font-family: "Poppins", sans-serif;
 }
 
@@ -697,7 +697,7 @@ section {
   border: 1px solid #00b3ac 0.5;
   padding: 100px 20px;
   transition: all ease-in-out 0.3s;
-  background: #fff;
+  background: #00b3ac;
 }
 
 .services .icon-box .icon {
