@@ -714,7 +714,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #fff;
+  color: #00b3ac;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }
@@ -723,6 +723,7 @@ section {
   font-weight: 700;
   margin-bottom: 15px;
   font-size: 24px;
+  color:#ac00b3;
 }
 
 .services .icon-box h4 a {
