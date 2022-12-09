@@ -547,7 +547,7 @@ h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 0px 0;
+  padding: 20px 0;
   overflow: scroll;
 }
 
@@ -717,7 +717,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #fff;
+  color: #00b3ac;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }
