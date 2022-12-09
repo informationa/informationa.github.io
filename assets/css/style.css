@@ -572,7 +572,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #05cdc740;
+  background: #fff;
   margin: 4px 10px;
 }
 
@@ -583,7 +583,7 @@ section {
   font-weight: 700;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #000;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -672,12 +672,12 @@ section {
 .features .icon-box i {
   font-size: 48px;
   float: left;
-  color: #8E7D63;
+  color: #00b3ac;
 }
 
 .features .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #00b3ac;
   margin-left: 60px;
 }
 
@@ -694,7 +694,7 @@ section {
 
 .services .icon-box {
   text-align: center;
-  border: 1px solid #ebebeb;
+  border: 1px solid #00b3ac 0.5;
   padding: 100px 20px;
   transition: all ease-in-out 0.3s;
   background: #fff;
@@ -704,7 +704,7 @@ section {
   margin: 0 auto;
   width: 64px;
   height: 64px;
-  background: #8E7D63;
+  background: #00b3ac 0.5;
   border-radius: 4px;
   display: flex;
   align-items: center;
@@ -726,7 +726,7 @@ section {
 }
 
 .services .icon-box h4 a {
-  color: #8E7D63;
+  color: #00b3ac;
   transition: ease-in-out 0.3s;
 }
 
@@ -818,7 +818,7 @@ section {
 .portfolio #portfolio-flters li:hover,
 .portfolio #portfolio-flters li.filter-active {
   color: #151515;
-  background: #8E7D63;
+  background: #00b3ac 0.5;
 }
 
 .portfolio #portfolio-flters li:last-child {
@@ -895,7 +895,7 @@ section {
 }
 
 .portfolio .portfolio-wrap .portfolio-links a:hover {
-  color: #8E7D63;
+  color: #00b3ac;
 }
 
 .portfolio .portfolio-wrap:hover::before {
@@ -931,11 +931,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #8E7D63;
+  border: 1px solid #00b3ac;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #8E7D63;
+  background-color: #00b3ac;
 }
 
 .portfolio-details .portfolio-info {
@@ -1000,7 +1000,7 @@ section {
 .counts .content .count-box i {
   display: block;
   font-size: 36px;
-  color: #8E7D63;
+  color: #00b3ac;
   float: left;
 }
 
