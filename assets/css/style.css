@@ -591,6 +591,9 @@ section {
 /*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
+.about{
+  background: #fff;
+}
 .about .content h3 {
   font-weight: 700;
   font-size: 28px;
@@ -623,7 +626,8 @@ section {
 # Clients
 --------------------------------------------------------------*/
 .clients {
-  padding-top: 20px;
+  background-color: #fff;
+
 }
 
 .clients .swiper-slide img {
