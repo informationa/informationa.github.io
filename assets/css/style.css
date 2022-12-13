@@ -701,6 +701,7 @@ section {
   background-color: #00b3ac;
 }
 .services .icon-box {
+  width: 444px;
   text-align: center;
   border: 1px solid #fff 0.5;
   padding: 100px 20px;
